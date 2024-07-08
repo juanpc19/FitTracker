@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fit Tracker</string>
+    <!--el siguiente string es el correspondiente al ID de cliente web correspondiente la autentificacion google del proyecto-->
+    <string name="web_client_id">68796592812-l9mrkqjcdtgel613snoh15d6mj6ju9ft.apps.googleusercontent.com
+</string>
+
+</resources>
