@@ -1,6 +1,6 @@
 # FitTracker
 
-En este proyecto se aplica:
+En este proyecto se aplican:
 
 -Arquitectura limpia con capas Data, Domain y Presentation
 -MVVM usando view models con StateFlows
