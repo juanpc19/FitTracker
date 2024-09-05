@@ -10,5 +10,6 @@ En este proyecto se aplican:
 -Autenticación con Google: Implementación de Google Authentication a través de Firebase como método de inicio de sesión.  
 
 FitTracker es una aplicación diseñada para ayudar a los usuarios a crear y gestionar planes de entrenamiento de hipertrofia muscular de forma semanal.  
-Ofrece una selección de ejercicios predefinidos, así como la posibilidad de que los usuarios creen y personalicen sus propios ejercicios.  
+Ofrece una selección de ejercicios predefinidos, así como la posibilidad de que los usuarios creen y personalicen sus propios ejercicios.    
+
 Además, proporciona consejos e información básica sobre entrenamientos y nutrición, y cuenta con la visualización de videos para guiar al usuario en la ejecución correcta de los ejercicios.  
