@@ -69,4 +69,7 @@ En este proyecto se aplican:
 <img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/17-crear-ejercicio-modal.jpg" alt="Crear Ejercicio" width="300"/>
 
 ### Editar Ejercicio
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/18-editar-ejercicio-modal.jpg" alt="Editar Ejercicio" width="300"/>
 
+### Eliminar Ejercicio
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/19-eliminar-ejercicio-modal.jpg" alt="Eliminar Ejercicio" width="300"/>
