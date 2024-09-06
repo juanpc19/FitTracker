@@ -18,58 +18,55 @@ En este proyecto se aplican:
 ## Pantallas de la Aplicación
 
 ### Pantalla de Inicio de Sesión
-![Pantalla de Inicio de Sesión](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/1-login.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/1-login.jpg" alt="Pantalla de Inicio de Sesión" width="300"/>
 
 ### Pantalla de Inicio con Rutina Activa
-![Pantalla de Inicio con Rutina Activa](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/2-inicio-rutina-activa.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/2-inicio-rutina-activa.jpg" alt="Pantalla de Inicio con Rutina Activa" width="300"/>
 
 ### Detalles de Rutina - Sesiones
-![Detalles de Rutina - Sesiones](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/3-detalles-rutina-sesiones.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/3-detalles-rutina-sesiones.jpg" alt="Detalles de Rutina - Sesiones" width="300"/>
 
 ### Detalles de Sesión - Ejercicio
-![Detalles de Sesión - Ejercicio](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/4-detalles-sesion-ejercicio.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/4-detalles-sesion-ejercicio.jpg" alt="Detalles de Sesión - Ejercicio" width="300"/>
 
 ### Lista de Rutinas
-![Lista de Rutinas](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/5-lista-rutinas.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/5-lista-rutinas.jpg" alt="Lista de Rutinas" width="300"/>
 
 ### Crear Rutina
-![Crear Rutina](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/6-crear-rutina.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/6-crear-rutina.jpg" alt="Crear Rutina" width="300"/>
 
 ### Crear Rutina - Modal Sesión
-![Crear Rutina - Modal Sesión](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/7-crear-rutina-modal-sesion.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/7-crear-rutina-modal-sesion.jpg" alt="Crear Rutina - Modal Sesión" width="300"/>
 
 ### Crear Rutina - Desplegable Ejercicios de Sesión
-![Crear Rutina - Desplegable Ejercicios de Sesión](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/8-crear-rutina-desplegable-ejercicios-sesion.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/8-crear-rutina-desplegable-ejercicios-sesion.jpg" alt="Crear Rutina - Desplegable Ejercicios de Sesión" width="300"/>
 
 ### Guardar Rutina
-![Guardar Rutina](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/9-crear-rutina-guardar.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/9-crear-rutina-guardar.jpg" alt="Guardar Rutina" width="300"/>
 
 ### Editar Rutina
-![Editar Rutina](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/10-editar-rutina.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/10-editar-rutina.jpg" alt="Editar Rutina" width="300"/>
 
 ### Editar Rutina - Modal Sesión
-![Editar Rutina - Modal Sesión](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/11-editar-rutina-modal-sesion.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/11-editar-rutina-modal-sesion.jpg" alt="Editar Rutina - Modal Sesión" width="300"/>
 
 ### Guardar Cambios en Rutina
-![Guardar Cambios en Rutina](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/12-editar-rutina-guardar-cambios.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/12-editar-rutina-guardar-cambios.jpg" alt="Guardar Cambios en Rutina" width="300"/>
 
 ### Eliminar Rutina
-![Eliminar Rutina](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/13-eliminar-rutina-modal.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/13-eliminar-rutina-modal.jpg" alt="Eliminar Rutina" width="300"/>
 
 ### Cargando Datos
-![Cargando Datos](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/14-cargando-datos.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/14-cargando-datos.jpg" alt="Cargando Datos" width="300"/>
 
 ### Sección de Información Desplegable
-![Sección de Información Desplegable](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/15-seccion-desplegables-informacion.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/15-seccion-desplegables-informacion.jpg" alt="Sección de Información Desplegable" width="300"/>
 
 ### Lista de Ejercicios
-![Lista de Ejercicios](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/16-lista-ejercicios.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/16-lista-ejercicios.jpg" alt="Lista de Ejercicios" width="300"/>
 
 ### Crear Ejercicio
-![Crear Ejercicio](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/17-crear-ejercicio-modal.jpg)
+<img src="https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/17-crear-ejercicio-modal.jpg" alt="Crear Ejercicio" width="300"/>
 
 ### Editar Ejercicio
-![Editar Ejercicio](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/18-editar-ejercicio-modal.jpg)
 
-### Eliminar Ejercicio
-![Eliminar Ejercicio](https://github.com/juanpc19/FitTracker/blob/main/imagenesInterfaz/19-eliminar-ejercicio-modal.jpg)
